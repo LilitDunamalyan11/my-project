@@ -24,3 +24,5 @@ age = 2025 - date_of_birth_year
 print(name)
 print(surname)
 print(age)
+print (updated)
+
